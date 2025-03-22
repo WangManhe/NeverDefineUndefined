@@ -1,0 +1,2 @@
+# NeverDefineUndefined
+A realistic trying
